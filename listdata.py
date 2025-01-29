@@ -1,5 +1,5 @@
 # List 
-
+# Lists are mutable sequences used to store multiple items.
 # creating list
 
 # my_list = [1, 2, 3, 4]  # Normal list
